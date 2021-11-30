@@ -1,5 +1,5 @@
 ### Hello there, I'm Daniel Chodorowski | danjo 👋
-Im a 16 y/o developer from Germany 
+I'm a 16 y/o developer from Germany 
 _________________________________________________________
 - 🔭 I’m currently working on my knowledge in JavaScript
 - 🌱 I’m currently learning Python
