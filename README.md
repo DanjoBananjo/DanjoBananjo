@@ -1,7 +1,7 @@
 ### Hello there, I'm Daniel Chodorowski | danjo 👋
 I'm a 16 y/o developer from Germany 
 _________________________________________________________
-- 🔭 I’m currently working on my knowledge in JavaScript
+- 🔭 I’m currently working on Frontend Developing
 - 🌱 I’m currently learning Python
 - 🤔 I’m looking for help with Lua
 - 💬 Ask me about anything! :)
