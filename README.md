@@ -1,4 +1,4 @@
-### Hello there, I'm Daniel Chodorowski | danjo 👋
+### Hello there, i´m danjo. 👋
 I'm a 16 y/o developer from Germany 
 _________________________________________________________
 - 🔭 I’m currently working on Frontend Developing
